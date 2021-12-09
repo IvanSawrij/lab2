@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(71,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(76,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(99,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(125,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(157,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(66,43): warning C4101: L2: неиспользованная локальная переменная
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(66,39): warning C4101: L1: неиспользованная локальная переменная
+C:\Users\vania\Desktop\labs\lab2\lab2\lab2\main.c(66,15): warning C4101: d: неиспользованная локальная переменная
